@@ -13,7 +13,7 @@
                 </div>
                 <div class="action">
                     <button type="button" class="primary" @click="goToSinglePage(post.id)">View Post</button>
-                    <button type="button" class="secondary delete">Delete Post</button>
+                    <button type="button" class="secondary delete">Deletes Post</button>
                 </div>
             </div>
         </div>
